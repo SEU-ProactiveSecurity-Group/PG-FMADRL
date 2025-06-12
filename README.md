@@ -25,14 +25,11 @@ python main.py --attacker_type=fixed --attack_type=node --algorithm=dqn --seed=1
 ## Citation
 
 ```
-@misc{zhou2025staticadaptivedefensefederated,
-      title={From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks}, 
-      author={Yuyang Zhou and Guang Cheng and Kang Du and Zihan Chen and Tian Qin and Yuyu Zhao},
-      year={2025},
-      eprint={2506.07392},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2506.07392}, 
+@article{zhou2025static,
+  title={From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks},
+  author={Zhou, Yuyang and Cheng, Guang and Du, Kang and Chen, Zihan and Qin, Tian and Zhao, Yuyu},
+  journal={arXiv preprint arXiv:2506.07392},
+  year={2025}
 }
 ```
 
